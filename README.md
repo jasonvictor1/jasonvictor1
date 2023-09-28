@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jason! </h1>
 
-<h2>Software Development Projects:</h2>
+<h2>Cloud Security Projects:</h2>
 
  
 <h2>Certifications:</h2>
