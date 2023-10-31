@@ -5,6 +5,8 @@
  
 <h2>Certifications:</h2>
 
+<h2>Blog Publications:</h2>
+
 
 
 
