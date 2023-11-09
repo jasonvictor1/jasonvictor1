@@ -24,11 +24,20 @@ Click below to read my latest blog posts:
 
 <h2>Connect with me:</h2>
 
+<a href="https://linkedin.com">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://medium.com/@jasonvictor19">
+  <img align="left" alt="Medium" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" />
+</a>
 
+<!-- Make sure to add some space after the icons -->
+<br />
+<br />
 
-
+<!-- Now add your actual link references below -->
 [linkedin]: https://linkedin.com
+[medium]: https://medium.com/@jasonvictor19
 
 
