@@ -13,6 +13,8 @@ Click below to read my latest blog posts:
 
 [![Blog](https://img.shields.io/badge/Read%20Blog-Risk%20and%20Remedies%20of%20Cloud%20Misconfigurations-brightgreen)](https://medium.com/@jasonvictor19/risk-and-remedies-of-cloud-misconfigurations-f64de34fbaa0)
 
+[![Blog](https://img.shields.io/badge/Read%20Blog-Cracking%20the%202020%20Twitter%20Hack%3A%20Takeaways%20from%20a%20Cyber%20Crisis-brightgreen)](https://medium.com/@jasonvictor19/cracking-the-2020-twitter-hack-takeaways-from-a-cyber-crisis-b2990e5c8caf)
+
 🔗 For more articles, visit [my Medium profile](https://medium.com/@jasonvictor19).
 
 
