@@ -2,12 +2,13 @@
 
 <h2>Cyber Security Projects:</h2>
 
- 
 <h2>Certifications:</h2>
 
 <h2>Blog Publications:</h2>
 
 Click below to read my latest blog posts:
+
+[![Blog](https://img.shields.io/badge/Read%20Blog-The%20End%20of%20Admin%3A%20CISA's%20Call%20to%20Action%20Against%20Default%20Passwords-brightgreen)](https://medium.com/@jasonvictor19/the-end-of-admin-cisa-s-call-to-action-against-default-passwords-d734db6c6114)
 
 [![Blog](https://img.shields.io/badge/Read%20Blog-The%20Rise%20of%20Insider%20Threats%3A%20What%20Every%20Organization%20Should%20Know-brightgreen)](https://jasonvictor19.medium.com/the-rise-of-insider-threats-what-every-organization-should-know-d3857b921f6e)
 
