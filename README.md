@@ -16,7 +16,16 @@ Click below to read my latest blog posts:
 
 [![Blog](https://img.shields.io/badge/Read%20Blog-Cracking%20the%202020%20Twitter%20Hack%3A%20Takeaways%20from%20a%20Cyber%20Crisis-brightgreen)](https://medium.com/@jasonvictor19/cracking-the-2020-twitter-hack-takeaways-from-a-cyber-crisis-b2990e5c8caf)
 
+[![Blog](https://img.shields.io/badge/Read%20Blog-The%20Inside%20Job%3A%20How%20a%20Fired%20IT%20Manager%27s%20Cyberattack%20Shook%20a%20Massachusetts%20High%20School-brightgreen)](https://medium.com/@jasonvictor19/the-inside-job-how-a-fired-it-managers-cyberattack-shook-a-massachusetts-high-school-4073e01e0373)
+
+[![Blog](https://img.shields.io/badge/Read%20Blog-The%20AT%26T%20Breach%3A%20A%20Wake%20Up%20Call%20for%20Digital%20Security-brightgreen)](https://medium.com/@jasonvictor19/the-at-t-breach-a-wake-up-call-for-digital-security-6be68db4d894)
+
+[![Blog](https://img.shields.io/badge/Read%20Blog-The%20MGM%20Resorts%20Hack%3A%20A%20High%20Stakes%20Game%20of%20Digital%20Security-brightgreen)](https://medium.com/@jasonvictor19/the-mgm-resorts-hack-a-high-stakes-game-of-digital-security-2ee67922e476)
+
+[![Blog](https://img.shields.io/badge/Read%20Blog-Prescription%20Disruption%3A%20Handling%20the%20Repercussions%20of%20a%20Cyberattack%20on%20Medical%20Information-brightgreen)](https://medium.com/@jasonvictor19/prescription-disruption-handling-the-repercussions-of-a-cyberattack-on-medical-information-279c2fee64bf)
+
 🔗 For more articles, visit [my Medium profile](https://medium.com/@jasonvictor19).
+
 
 
 
