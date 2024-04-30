@@ -24,7 +24,7 @@ Click below to read my latest blog posts:
 
 [![Blog](https://img.shields.io/badge/Read%20Blog-Prescription%20Disruption%3A%20Handling%20the%20Repercussions%20of%20a%20Cyberattack%20on%20Medical%20Information-brightgreen)](https://medium.com/@jasonvictor19/prescription-disruption-handling-the-repercussions-of-a-cyberattack-on-medical-information-279c2fee64bf)
 
-[![Blog](https://img.shields.io/badge/Read%20Blog-Exposing%20the%20Vulnerabilities%20in%20Multi%2DFactor%20Authentication%3A%20How%20Cybercriminals%20Get%20Around%20MFA-brightgreen)](https://medium.com/@jasonvictor19/exposing-the-vulnerabilities-in-multi-factor-authentication-how-cybercriminals-get-around-mfa-37c8d4d65c53)
+[![Blog](https://img.shields.io/badge/Read%20Blog-Exposing%20the%20Vulnerabilities%20in%20Multi--Factor%20Authentication%3A%20How%20Cybercriminals%20Get%20Around%20MFA-brightgreen)](https://medium.com/@jasonvictor19/exposing-the-vulnerabilities-in-multi-factor-authentication-how-cybercriminals-get-around-mfa-37c8d4d65c53)
 
 🔗 For more articles, visit [my Medium profile](https://medium.com/@jasonvictor19).
 
